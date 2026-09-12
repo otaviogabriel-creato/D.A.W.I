@@ -1,0 +1,79 @@
+table{
+    border-collapse: collapse;
+}
+th,td{
+    border: 1px solid #333;
+    padding: 8px;
+}
+
+thead{
+    background-color: rgb(216, 178, 252);
+}
+
+tbody{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+.BD{
+    background-color: rgb(182, 40, 40);
+}
+
+.Redes{
+    background-color: rgb(243, 144, 221);
+}
+
+.Mat{
+    background-color: rgb(88, 88, 176);
+}
+
+.pt{
+    background-color:rgb(146, 96, 143);
+}
+
+.Fís{
+    background-color: #9b9595;
+}
+
+.DAW{
+    background-color: rgb(253, 147, 108);
+}
+
+.EDA{
+    background-color: rgb(123, 78, 78);
+}
+
+.POO{
+    background-color: rgb(249, 249, 108);
+}
+
+.Geo{
+    background-color: rgb(149, 149, 233);
+}
+
+.Edfi{
+    background-color:aquamarine ;
+}
+
+.Bio{
+    background-color: green;
+}
+
+.Ing{
+    background-color: bisque;
+}
+
+.Filo{
+    background-color: rgb(123, 200, 23);
+}
+
+.His{
+    background-color: aliceblue;
+}
+
+.socio{
+    background-color: teal;
+}
+
+.Qui{
+    background-color: peru;
+}
